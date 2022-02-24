@@ -98,3 +98,17 @@
     color:green;
     background: none;
 }
+
+/* About section styling */
+.about{
+    font-family: "poppins" sans-serif;
+}
+.about .title{
+    text-align: center;
+    font-family:'Ubuntu' sans-serif;
+}
+.about .about-content .left img{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
