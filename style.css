@@ -144,6 +144,11 @@ section .title::after {
   justify-content: space-between;
   align-items: center;
 }
+.about-content .right p{
+  line-height: 25px;
+  font-size: 20px;
+  font-weight: 20px;
+}
 .about .about-content .left {
   width: 45%;
 }
@@ -301,3 +306,21 @@ section .title::after {
 }
 
 .py-3{padding:30px 0;}
+#contact-info .container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding:50px 30px;
+
+}
+.container .box P{
+  padding-top:20px;
+}
+/* styling Footer starts here */
+#main-footer{
+  text-align: center;
+  background: #444;
+  color:#fff;
+  padding:20px;
+  
+}
