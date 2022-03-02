@@ -65,7 +65,7 @@ SOFTWARE.
  [Go Back to the top](#portfolio)
 
  ## Live Link
- https://abdi-ali33.github.io/my-landing-page-/
+
  
  ## Authors Info
  
