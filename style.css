@@ -191,11 +191,11 @@ section .title::after {
 }
 /* project styling starts here */
 .project{
-  background-image: url(./images/background1.jpg);
+  background-image: url(images/image15.jpg);
 }
 .project .project-content {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 }
 section .title-project{
@@ -209,7 +209,7 @@ section .title-project{
   font-family: "Ubuntu" sans-serif;
 }
 .project .project-content .left {
-  width: 100%;
+  width: 35%;
 }
 .project .project-content .left img {
   height: 400px;
