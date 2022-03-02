@@ -16,7 +16,6 @@
  <p>This is  a website that shows my portfolio/resume.It contains all my background information,Some of the services which i can provide and my contacts and the experience gained.</p>
  
  ## Installation
- 
  ### Requirements
  
  * Either a computer,phone,tablet or an Ipad
@@ -24,12 +23,17 @@
  * An access to the Internet
  
  ### Installation Process
+  * clone this repository to a location in your file system. git clone https://github.com/Abdi-Ali33/my-landing-page-.git
+ 
+* Open terminal command line then navigate to the root folder of the application.
+* open index.html on your browser.
  
  [Go Back to the top](#portfolio)
  ## Technology Used
  * HTML - which was used to build the structure of the pages.
  
  * CSS - which was used to style the pages.
+ * FontAwesome Icons
  
  ## Reference
  * Materialize CSS
